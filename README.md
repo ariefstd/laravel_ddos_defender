@@ -37,11 +37,11 @@ Set `.env` database (`DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_U
     "minimum-stability": "dev",
     "prefer-stable": true
 
-## Add throttle.php file in to folder config
+## Add throttle.php file to folder config
 
 `throttle.php`
 
-## Add src folder in to folder app
+## Add src folder to folder app
 
 `link github : https://github.com/GrahamCampbell/Laravel-Throttle`
 
