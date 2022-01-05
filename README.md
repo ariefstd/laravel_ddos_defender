@@ -37,14 +37,6 @@ Set `.env` database (`DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_U
     "minimum-stability": "dev",
     "prefer-stable": true
 
-## Add throttle.php file to folder config
-
-`throttle.php`
-
-## Add src folder to folder app
-
-`link github : https://github.com/GrahamCampbell/Laravel-Throttle`
-
 ## Please read the article about how to prevent DDoS attack using Laravel and throttle
 
 `link https://fbutube.com/content/ddos-prevention-methods-laravel-throttle-to-avoid-ddos-attack`
